@@ -5,5 +5,6 @@ Using Tableau, we analyse major movie trends since 1960s.
 - What are the characteristics of the three main directors in terms of revenues ?
 - How have movies based on novels performed relative to movies not based on novels?
 
-Tableau public story: https://public.tableau.com/profile/lina5384#!/vizhome/Udacity-MovieTrends/Story2?publish=yes
-Project Context: Udacity Business Analyst Nanodegree
+**Tableau public story**: https://public.tableau.com/profile/lina5384#!/vizhome/Udacity-MovieTrends/Story2?publish=yes
+
+**Project Context**: Udacity Business Analyst Nanodegree
